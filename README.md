@@ -11,4 +11,6 @@ idpcks/idpcks is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 <h3>Languages and Tools:</h3>
-[![image](https://github.com/user-attachments/assets/63cc79d9-41b7-4b50-b7b2-abf45a4b3611)](https://github.com/jhcpeixoto/jhcpeixoto/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Grid Snake](https://github.com/jhcpeixoto/jhcpeixoto/blob/output/github-contribution-grid-snake.svg)
+
+![Alt Text](https://github.com/jhcpeixoto/jhcpeixoto/blob/output/github-contribution-grid-snake.svg)
