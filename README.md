@@ -27,3 +27,12 @@ You can click the Preview link to take a look at your changes.
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 ![Alt Text](https://github.com/jhcpeixoto/jhcpeixoto/blob/output/github-contribution-grid-snake.svg)
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=idpcks&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=idpcks&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
