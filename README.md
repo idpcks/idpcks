@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @idpcks
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Laravel Framework & QBCORE Framework and everything!
-- 💞️ I’m looking to collaborate on web development projects, especially those involving Laravel, React, and QBCORE.
+- 💞️ I’m looking to collaborate on web development projects, especially those involving Laravel
 - 📫 How to reach me : You can reach me via email at idpcks.container103@slmail.me or mail.wobble500@aleeas.com
 - 😄 Pronouns:  He/Him
 - ⚡ Fun fact:  I can spend hours debugging only to realize I forgot a semicolon! 😅 
