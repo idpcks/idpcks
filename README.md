@@ -54,7 +54,7 @@
   [########--] QBCore ............... learning
   [#######---] Flutter .............. exploring
   [####------] Nuxt ................. AI-assisted, live in production
-  [###-------] Astro ................ exploring
+  [#####-----] Astro ................ daily use (portfolio)
   [###-------] Python ............... exploring
 
   (bars are a rough self-assessment, not a benchmark)
@@ -105,7 +105,8 @@
 
 | Project | Description | Language |
 | --- | --- | --- |
-| [**DevServerManager**](https://github.com/idpcks/DevServerManager) | Dev server management tool | Python |
+| [**Enterprise Report Builder**] | Enterprise Report Builder (Query Builder) | Laravel, Nuxt UI , Inertia, Vite, PostgreSQL |
+| [**Portfolio Site**](#) *(private)* | Personal portfolio — static Astro site, Lighthouse 97–99, deployable at root or subpath | Astro, TypeScript, Tailwind CSS |
 | [**laravel-blog-pesantren**](https://github.com/idpcks/laravel-blog-pesantren) | Blog for an Islamic boarding school (pesantren) | Laravel / PHP |
 | [**OpenCut**](https://github.com/idpcks/OpenCut) *(fork)* | Open-source CapCut alternative | TypeScript |
 | [**open-lovable**](https://github.com/idpcks/open-lovable) *(fork)* | Clone any website into a React app | TypeScript |
