@@ -1,38 +1,91 @@
-- 👋 Hi, I’m @idpcks
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Laravel Framework & QBCORE Framework and everything!
-- 💞️ I’m looking to collaborate on web development projects, especially those involving Laravel
-- 📫 How to reach me : You can reach me via email at idpcks.container103@slmail.me or dev@kodex.eu.cc
-- 😄 Pronouns:  He/Him
-- ⚡ Fun fact:  I can spend hours debugging only to realize I forgot a semicolon! 😅 
+```text
+ _     _            _        
+(_) __| |_ __   ___| | _____ 
+| |/ _` | '_ \ / __| |/ / __|
+| | (_| | |_) | (__|   <\__ \
+|_|\__,_| .__/ \___|_|\_\___/
+        |_|                  
 
-<!---
-idpcks/idpcks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-### 🧰 Tools & Technologies
+        [ web dev | laravel | qbcore | flutter ]
+```
 
-[![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![FiveM](https://img.shields.io/badge/FiveM-FF5500?style=for-the-badge&logo=fivem&logoColor=white)](https://fivem.net/)
-[![QBCore](https://img.shields.io/badge/QBCore-1572B6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEzLjY1IDQ2LjA5NUMxMS44NTI1IDQzLjI5NTcgMTEgNDAuMjQ3NCAxMSA0MCAxMSAzNy42ODMgMTMuNjUgMzYuNjEgMTUuNDk5IDM5LjQwOEMxNi40OTkgNDEuMDA2IDIyLjc1MiA0Ny4wNjEgMjMuMjUxIDQ3LjUwOUMyMy4zMTQgNDcuNTU5IDIxLjkzNiA0OC44MDYgMjEuOTc3IDUwLjExN0wyMS45NzkgNTAuMTE5QzIyLjAzNiA1MS41MDEgMjIuNjU1IDUyLjgwNiAyMy42NjMgNTMuNDM0QzI0LjE4MiA1My43NDMgMjUuNTA2IDUzLjk5OSAyNy4yNSA1NEgzNi4wMDRDMzcuNjM4IDU0IDQwLjcwNCA1NC4yNzEgNDMuNzQxIDU0LjI3MUM0NS40MzkgNTQuMjcxIDQ3LjA4IDUzLjcwNCA0OC4zMzUgNTIuNjY1QzUwLjY4OCA1MC41MTEgNTIuNzk2IDQ3Ljk0NSA1NC42NjcgNDQuODc5QzU1Ljg0MyA0Mi45OTcgNTcgNDAuMzcxIDU3IDM5Ljg1NUM1NyAzOS4zNDYgNTUuMjEyIDM4Ljk3IDUyLjc1NSAzOC45NzlDNTMuNzY0IDM3LjA3NyA1NC42NjYgMzUuMTggNTUuMzkgMzMuMjg3QzU2LjgyIDMwLjA4NCA1Ny42ODggMjYuOTg5IDU3Ljk5OSAyMy45MzdDNTguMzMgMjAuNzQ4IDU3LjQ4NiAxNy40ODYgNTUuNTExIDE0LjcyQzU0LjQ2IDEzLjM0NjMgNTIuOTEgMTIuMDY1IDUxLjQ1NSAxMC43MzNDNDkuNzM3IDkuMjUyIDQ4LjA5IDcuNzggNDYuMjg2IDYuMzFDNDIuNzU2IDMuNTI2IDM5LjE4MSAxLjAwMzQgMzUuNTgzIDAuMDc4OTQ4QzMxLjg4NiAtMC45ODUyNiAyNy45MjMgMC4xMjg1IDI0LjI2IDIuMzg4NUMyMi4xNTEgMy43Mzc4IDIwLjIxMyA1LjI0MjggMTguMzI5IDYuOTM2QzE1LjQ0MyA5LjMzMTMgMTMuODAyIDEyLjM5MyAxMi44OTYgMTUuNTczQzExLjg3NSAxOC44ODYgMTEuMzg4IDIyLjU4OCAxMC4wODMgMjUuNzM1QzkuMDIxODUgMjguNTE1NyA3Ljc1MjI4IDMxLjIwODggNi40NzIyNCAzMy45MzdDNS4zMzM3NyAzNi4yOTQ3IDMuNTg5NDMgMzguMzAyOSAyLjQyNzc1IDQwLjcyMUMxLjY4Mzg5IDQyLjExODcgMi4yMjA1MiA0My44NjQ0IDMuODU4NzkgNDQuMzU1OEM1LjQzNzQ4IDQ0Ljg1MiA3LjMxOTg1IDQ2LjU1MTcgNy4zMTk4NSA0Ni41NTE3QzkuNTk5MzYgNDcuNjg5NSAxMS45NDY0IDQ4LjM3ODkgMTQuMzQ0OSA0OC42NTlDMTAuNDI4OCA0OS4wODIgNi41ODc3OCA0OS4xNDIgMy43MDEzNiA0Ny4yMTQiIGZpbGw9IiNGRkZGRkYiLz4KPC9zdmc+Cg==)](https://github.com/qbcore-framework)
+```text
++----------------------------------------------------------------+
+|  WHOAMI                                                        |
++----------------------------------------------------------------+
+|  user      : @idpcks                                           |
+|  pronouns  : he/him                                            |
+|  interest  : programming                                       |
+|  main      : Laravel (PHP)                                     |
+|  prefers   : Bun over npm                                      |
+|  learning  : QBCore Framework, and more                        |
+|  looking   : collab on web dev projects (esp. Laravel)         |
+|  fun fact  : hours of debugging, root cause = missing ';'      |
++----------------------------------------------------------------+
+```
 
+```text
+$ cat status.log
 
-###
+  [##########] Laravel .......... main stack
+  [########--] Git / GitHub ..... proficient
+  [########--] GitHub CI/CD ..... proficient
+  [#######---] Docker ........... fairly proficient
+  [#######---] Caddy ............ fairly proficient
+  [#######---] Cloudflare ....... solid understanding
+  [########--] JavaScript ....... daily use (Bun > npm)
+  [#######---] MySQL/PostgreSQL . daily use
+  [########--] QBCore ........... learning
+  [#######---] Flutter .......... exploring
+  [####------] Nuxt ............. AI-assisted, live in production
+  [###-------] Astro ............ exploring
+  [###-------] Python ........... exploring
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=idpcks&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=idpcks&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+  (bar = gambaran kasar, silakan sesuaikan)
+```
 
-###
+```text
++----------------------------------------------------------------+
+|  TECH STACK                                                    |
++----------------------------------------------------------------+
+|                                                                |
+|  Backend    : Laravel (PHP) . Python (exploring)               |
+|  Runtime    : Bun (preferred over npm) . Node.js (early days)  |
+|  Frontend   : HTML5 . JavaScript . Bootstrap . Nuxt . Astro    |
+|  Mobile     : Flutter                                          |
+|  Database   : MySQL . PostgreSQL                               |
+|  DevOps     : Docker . Caddy . Cloudflare                      |
+|  Version    : Git . GitHub . GitHub CI/CD                      |
+|  Game/Mod   : FiveM . QBCore                                   |
+|  Editor     : VS Code                                          |
+|  Note       : Nuxt = AI-assisted build, live in production     |
+|                                                                |
++----------------------------------------------------------------+
+```
 
-![Alt Text](https://github.com/jhcpeixoto/jhcpeixoto/blob/output/github-contribution-grid-snake.svg)
+```text
+.
+|-- DevServerManager ........ tool manajemen dev server (Python)
+|-- laravel-blog-pesantren .. blog pesantren berbasis Laravel
+|-- OpenCut (fork) .......... alternatif CapCut open-source (TS)
+|-- open-lovable (fork) ..... clone website jadi React app (TS)
+`-- skote-admin (fork) ...... template admin Angular 13 (HTML)
+```
 
+```text
++----------------------------------------------------------------+
+|  CONTACT                                                       |
++----------------------------------------------------------------+
+|  mail  : idpcks.container103@slmail.me                         |
+|  mail  : dev@kodex.eu.cc                                       |
+|  repo  : github.com/idpcks                                     |
++----------------------------------------------------------------+
+```
+
+```text
+   while (alive) {
+       learn();
+       build();
+       debug();   // cek titik koma dulu :)
+   }
+```
