@@ -1,13 +1,13 @@
 <div align="center">
 
-```text
+<pre style="display:inline-block;text-align:left">
  _     _            _        
 (_) __| |_ __   ___| | _____ 
 | |/ _` | '_ \ / __| |/ / __|
 | | (_| | |_) | (__|   <\__ \
 |_|\__,_| .__/ \___|_|\_\___/
         |_|                  
-```
+</pre>
 
 **`[ web dev | laravel | qbcore | flutter ]`**
 
