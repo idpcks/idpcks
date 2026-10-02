@@ -118,6 +118,7 @@
 
 - 📧 [idpcks.container103@slmail.me](mailto:idpcks.container103@slmail.me)
 - 📧 [dev@kodex.eu.cc](mailto:dev@kodex.eu.cc)
+- 📧 [dev@korag.web.id](mailto:dev@korag.web.id)
 - 🐙 [github.com/idpcks](https://github.com/idpcks)
 
 Open to collaborating on web dev projects, especially Laravel. Feel free to reach out.
